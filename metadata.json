@@ -1,0 +1,5 @@
+{
+  "name": "Cazador de Títulos",
+  "description": "Página de ventas para la extensión de Chrome 'Cazador de Títulos', que ayuda a los creadores de contenido a encontrar ideas de videos virales analizando los canales de YouTube.",
+  "requestFramePermissions": []
+}
